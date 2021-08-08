@@ -1,3 +1,5 @@
+<img align="right" src="CG.png" width="400px" alt="Catgirl" title="Catgirl" />
+
 “喵~我是可爱猫猫，请收养我”
 
 - 联系方式：
