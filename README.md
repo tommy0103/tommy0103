@@ -7,6 +7,7 @@ My name is **tommy0103**, and I'm an ACMer & ex-OIer. You can also call me **tom
 As a catgirl, I have the Cat trait! 🐱
 
 ⭐ **My interests**
+
 I like algorithm optimization, problem solving, and learning various technologies. I explore different programming domains to find my direction and enhance my ability to understand complex architectures. 
 
 💖 **Things that can wake me up**
