@@ -35,6 +35,8 @@ I'm tired of the "spaghetti frameworks," hardcoded "Session Types," and context-
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,html,js,ts,css,py,rust,md,latex,regex,git,mongodb,mysql,linux,vim,vscode,express,nodejs,react)
 
+![Metrics](https://metrics.lecoq.io/tommy0103?template=classic&base.header=0&base.activity=0&base.community=0)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tommy0103&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="tommy0103's GitHub Stats" height="185px">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tommy0103&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=true#gh-light-mode-only" alt="Top Langs" height="185px">
