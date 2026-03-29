@@ -1,21 +1,21 @@
-### Hi 👋 here！
+# Hi 👋 here！
 
-**🐱 About me**
+## **🐱 About me**
 
 My name is **tommy0103**, and I'm an ACMer & ex-OIer. You can also call me **tomiya**, which is a Japanese name~
 
 As a catgirl, I have the Cat trait! 🐱 But deep down, I'm also a system architect obsessed with elegant kernel designs.
 
-⭐ **My interests & Current Obsessions**
+## ⭐ **My interests & Current Obsessions**
 
 I used to focus heavily on algorithm optimization and problem solving. Now, I'm diving deep into **AI Agent Architecture & Operating Systems**. 
 - ⚙️ **Building Agent OS:** Exploring stateless runtimes, unified VFS (Virtual File System) for LLMs, and System Primitives.
 - 🧩 **AI-Native APIs:** Advocating for "Mechanism vs. Policy" separation and designing APIs that treat LLMs as ALUs rather than humans.
 - 🚀 **Complex Architectures:** Taming the chaos of multi-agent systems with elegant state machines, IPC, and coroutine scheduling.
 
-🚧 **Currently Building**
+## 🚧 **Currently Building**
 
-**[kairos-runtime](https://github.com/tommy0103/kairos-runtime)** (WIP) ⏳✨
+### **[kairos-runtime](https://github.com/tommy0103/kairos-runtime)** (WIP) ⏳✨
 *An AI Agent OS kernel built on the first principles of Computer Science.*
 
 I'm tired of the "spaghetti frameworks," hardcoded "Session Types," and context-window abuse in the current Agent ecosystem. `kairos-runtime` is my attempt to bring true OS-level abstraction to LLMs, treating the model as an ALU rather than a human roleplayer:
@@ -25,13 +25,15 @@ I'm tired of the "spaghetti frameworks," hardcoded "Session Types," and context-
 - 🛠️ **Minimal Primitives**: Rejecting bloated "Skill Routing". Everything is achieved through 5 elegant syscalls (`read`, `write`, `patch`, `exec`, `call`) and strict JSON Schemas.
 - 🔄 **Process Scheduling**: Implementing coroutine-like task yielding (`logos_complete` with `plan/todo` patterns) and IPC to solve complex, long-horizon multi-agent reasoning.
 
-💖 **Things that can wake me up**
+## 💖 **Things that can wake me up**
 
 - Eating sweets! I really love puffs 🍰
 - Cute things! I'm trying to become a cuter girl 💕
 - Give me interesting algorithm problems please! 🧩
 - A perfectly designed RFC or an elegant architecture solution! 💡
 - Playing maimai all day long 🎵
+
+## My Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=github,c,cpp,html,js,ts,css,py,rust,md,latex,regex,git,mongodb,mysql,linux,vim,vscode,express,nodejs,react)
 
